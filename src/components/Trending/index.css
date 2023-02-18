@@ -1,0 +1,11 @@
+.trending-card {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  background-color: rgb(75, 69, 69);
+  justify-content: center;
+}
+.trending-video-container {
+  display: flex;
+  flex-direction: column;
+}

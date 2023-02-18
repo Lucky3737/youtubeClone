@@ -1,0 +1,23 @@
+.content-section {
+  display: flex;
+}
+.video-details-container {
+  width: 86%;
+  padding: 30px;
+}
+.video-content-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.like-save-btn {
+  outline: none;
+  border: 0px;
+  margin-right: 15px;
+  margin-left: 20px;
+  color: #64748b;
+}
+
+.btn-color {
+  color: #2563eb;
+}

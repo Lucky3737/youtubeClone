@@ -1,0 +1,30 @@
+.list-container {
+  list-style-type: none;
+  width: 50%;
+  padding: 20px;
+}
+
+.thumbnail-size {
+  height: 300px;
+  width: 100%;
+}
+
+.profile-size {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.video-details-card {
+  display: flex;
+}
+.view-card {
+  display: flex;
+}
+
+.views {
+  margin-right: 20px;
+}
+.video-main-card {
+  width: 85%;
+}

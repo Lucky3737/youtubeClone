@@ -1,0 +1,13 @@
+.trending-list-container {
+  display: flex;
+  list-style-type: none;
+}
+.thumbnail-img {
+  width: 40%;
+  height: 300px;
+  margin-right: 30px;
+}
+.list {
+  list-style-type: none;
+  margin: 30px;
+}
